@@ -2,7 +2,16 @@
 <h2 align="center">Insurance Comparison, Recommendation & Claim Assistant</h2>
 
 <p align="center">
-Full-Stack Insurance Management System built using FastAPI, PostgreSQL, and React.
+  Full-Stack Insurance Management System built using FastAPI, PostgreSQL, and React.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Storage-Google%20Drive-green?style=for-the-badge&logo=google-drive" />
+  <img src="https://img.shields.io/badge/Async-Celery-darkgreen?style=for-the-badge" />
 </p>
 
 <hr>
@@ -44,26 +53,18 @@ Google Drive API (Cloud Document Storage)
 
 <h2>🛠 Technology Stack</h2>
 
-<table align="center" cellpadding="8" cellspacing="0">
+<table align="center" cellpadding="10">
   <tr>
     <th align="left">Category</th>
     <th align="left">Technology</th>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td>
-      React.js<br>
-      JavaScript (ES6+)<br>
-      CSS
-    </td>
+    <td>React.js<br>JavaScript (ES6+)<br>CSS</td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>
-      FastAPI<br>
-      Python<br>
-      SQLAlchemy ORM
-    </td>
+    <td>FastAPI<br>Python<br>SQLAlchemy ORM</td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
@@ -79,10 +80,7 @@ Google Drive API (Cloud Document Storage)
   </tr>
   <tr>
     <td><strong>Background Processing</strong></td>
-    <td>
-      Celery<br>
-      Redis
-    </td>
+    <td>Celery<br>Redis</td>
   </tr>
 </table>
 
